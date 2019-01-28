@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`javascript test file exists 1`] = `
+Object {
+  "first": 1,
+}
+`;
+
+exports[`javascript test file exists 2`] = `
+Object {
+  "second": 2,
+}
+`;
